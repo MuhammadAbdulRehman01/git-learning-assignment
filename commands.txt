@@ -1,0 +1,4 @@
+git init:To initialize a repository
+git add:To stage changes
+git commit:To save changes
+git push:To upload changes to GitHub
